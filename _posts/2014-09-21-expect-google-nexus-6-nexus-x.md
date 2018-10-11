@@ -5,6 +5,7 @@ author: abhishek
 categories: [android, nexus, google, technology, smartphones]
 image: assets/images/android-l.png
 featured: true
+hidden: true
 ---
 
 The Google Nexus 6 may be called the <strong>Google Nexus X. </strong>
