@@ -18,7 +18,7 @@ image: assets/images/hangman-cover.jpg
 	<li>Quick toggle to enable and disable sound effects</li>
 	<li>Simple, light and enjoyable</li>
 </ul>
-<strong>Download:</strong> Click <a title="HERE" href="https://slideme.org/application/hangman-19" target="_blank"><strong>HERE</strong></a> to download the game from the SlideMe App Store
+<strong>Download:</strong> Click <a title="HERE" href="https://goo.gl/vfhZ5E" target="_blank"><strong>HERE</strong></a> to download the game from the SlideMe App Store
 
 <strong>Compatibility:</strong> Android 2.2 (Froyo) and above
 
