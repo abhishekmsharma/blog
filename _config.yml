@@ -2,8 +2,8 @@
 name: "Abhishek's Blog"
 description: "A place where I write, sometimes!"
 meta_description: "abhishek sharma, abhishek manoj sharma, computer science, software developer, data science, etl, warehousing, diet, cricket"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/abhishek-sharma-logo.png'
+favicon: 'assets/images/abhishek-sharma-logo.png'
 baseurl: /blog
 home: abhishekmsharma.com
 google_analytics: 'UA-46278016-1'
