@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-The Google Nexus 6 may be called the <strong>Google Nexus X. </strong> Two reasons<b>, first -the famous story Blade Runner features Nexus 6 super-advanced robots, hence can raise copyright issues. And second - to avoid a nomenclature confusion for their next smartphone which will be the 7th Nexus, and Google already has Nexus 7 which is a tablet.
+The Google Nexus 6 may be called the <strong>Google Nexus X. </strong> Two reasons, first -the famous story Blade Runner features Nexus 6 super-advanced robots, hence can raise copyright issues. And second - to avoid a nomenclature confusion for their next smartphone which will be the 7th Nexus, and Google already has Nexus 7 which is a tablet.
 
 Irrespective of the name (Nexus 6 or Nexus X), we know that the 6th Nexus is surely coming, and here is what I expect out of it. I will be addressing the phone as Nexus X in the rest of the article.
 
