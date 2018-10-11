@@ -5,6 +5,7 @@ author: abhishek
 categories: [android, nexus, google, technology, smartphones]
 image: assets/images/android-l.png
 featured: true
+comments: false
 hidden: true
 ---
 
