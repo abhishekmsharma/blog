@@ -3,7 +3,7 @@ layout: post
 title:  "Hangman Game for Android"
 author: abhishek
 categories: [ android, software development, game, mobile development ]
-image: assets/images/17.jpg
+image: assets/images/hangman-cover.jpg
 ---
 <strong>Description:</strong> A hangman game for Android where the user (or the player) has to try and guess the word by selecting one individual character at a time. The game includes several different user-selectable categories like World Country Capitals, Indian State Capitals, Country Names, Cricket, Bollywood and Football. The game also offers three different difficulty levels to player in an attempt to make the game more competitive, and has other basic options to enable or disable sound, pop-ups, etc.
 
