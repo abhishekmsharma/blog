@@ -17,7 +17,7 @@ Most teams look great on paper, but one team that stands out is Kings XI Punjab.
 
 One can say that explosive batsmen like **Virender Sehwag**, **Glenn Maxwell**, **David Miller**, and **George Bailey** form one of the most destructive batting line-ups in T20 cricket. And with youngsters like **Manan Vohra** and **Wriddhiman Saha** doing well, it won't be wrong to say that Kings XI have one of the best batting line-ups for the upcoming CLT20.
 
-![Virender Sehwag and Glenn Maxwell were instrumental in the success Kings XI Punjab tasted in IPL 7](https://www.cricket.com.au/-/media/News/2016/01/19MaxiSehwag.ashx | width=630)
+![Virender Sehwag and Glenn Maxwell were instrumental in the success Kings XI Punjab tasted in IPL 7](https://www.cricket.com.au/-/media/News/2016/01/19MaxiSehwag.ashx =600x)
 
 The team's IPL season was fantastic. Glenn Maxwell and Virender Sehwag, the two top scorers for the team lifted Kings Xi with their individual performances. Maxwell was fantastic in the first half of the tournament, whereas Sehwag kept chipping in with several crucial 30s and 40s giving the much needed momentum a team needs at the start.
 
@@ -31,12 +31,12 @@ Prior to this knock, the seventh edition of the IPL saw just one ton, and that w
 
 The crowd cheered up Sehwag in grand fashion, giving him a standing ovation. The chants of <em>**'Viru Viru'**</em> and <em>**'Sehwag Sehwag'**</em> brought back old memories. Also, it was heart-warming to see Kings XI Punjab's co-owner, Preity Zinta celebrate Sehwag's 100. Her expressions clearly portrayed every Indian cricket fan's reaction who were waiting to see the vintage Virender Sehwag back.
 
-![Virender Sehwag was at his absolute best, hammering 122 off just 58 deliveries](https://www.thehindu.com/migration_catalog/article10533157.ece/alternates/FREE_660/vbk-30-sehwag%20city)
+![Virender Sehwag was at his absolute best, hammering 122 off just 58 deliveries](https://www.thehindu.com/migration_catalog/article10533157.ece/alternates/FREE_660/vbk-30-sehwag%20city =600x)
 
 Later, Chennai Super Kings gave a good fight-back, with a major contribution by Suresh Raina. A wonderful run-out by George Bailey to dismiss Raina turned the match on its head in the favor of the Kings XI again.
 
 The experience of watching the match in the stadium was wonderful. Me and my friends had taken a poster along, featuring Virender Sehwag and Glenn Maxwell. The poster read, <em>**"If cricket is a religion, Sehwag is my God"**</em>. I do not think I could have found a better day to have taken this poster to the ground as Sehwag's performance was Godly indeed.
 
-![At the Wankhede stadium, wearing a turban in red, celebrating Sehwag's ton and Kings XI Punjab's entry into the finals](https://raw.githubusercontent.com/abhishekmsharma/blog/master/assets/images/kxipvscsk-wankhede.jpg?token=AEtGYnuv626WaGylJZdBGlIOTVtEQShOks5byt9FwA%3D%3D)
+![At the Wankhede stadium, wearing a turban in red, celebrating Sehwag's ton and Kings XI Punjab's entry into the finals](https://raw.githubusercontent.com/abhishekmsharma/blog/master/assets/images/kxipvscsk-wankhede.jpg?token=AEtGYnuv626WaGylJZdBGlIOTVtEQShOks5byt9FwA%3D%3D =600x)
 
 And now, the Kings XI Punjab are back, They will take on the Hobart Hurricanes on September 18. All one can expect is that Kings XI Punjab continue their good form, and win the tournament this time. At the same time, all eyes will be on Sehwag, who has certainly made a strong statement for himself after a wonderful IPL season. If the Champions League goes well for him, there is a huge possibility of his comeback in the Indian team. Seeing Sehwag back in Indian colors is what every cricket fan wishes for, and I hope that we will not be left disappointed.
