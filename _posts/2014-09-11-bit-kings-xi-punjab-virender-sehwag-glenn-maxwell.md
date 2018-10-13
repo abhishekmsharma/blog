@@ -37,6 +37,7 @@ Later, Chennai Super Kings gave a good fight-back, with a major contribution by 
 
 The experience of watching the match in the stadium was wonderful. Me and my friends had taken a poster along, featuring Virender Sehwag and Glenn Maxwell. The poster read, <em>**"If cricket is a religion, Sehwag is my God"**</em>. I do not think I could have found a better day to have taken this poster to the ground as Sehwag's performance was Godly indeed.
 
-![At the Wankhede stadium, wearing a turban in red, celebrating Sehwag's ton and Kings XI Punjab's entry into the finals](https://raw.githubusercontent.com/abhishekmsharma/blog/master/assets/images/kxipvscsk-wankhede.jpg?token=AEtGYnuv626WaGylJZdBGlIOTVtEQShOks5byt9FwA%3D%3D)
+![At the Wankhede stadium, wearing a turban in red, celebrating Sehwag's ton and Kings XI Punjab's entry into the finals](https://raw.githubusercontent.com/abhishekmsharma/blog/master/assets/images/kxipvscsk-wankhede.jpg?token=AEtGYnuv626WaGylJZdBGlIOTVtEQShOks5byt9FwA%3D%3D = 500x)
+
 
 And now, the Kings XI Punjab are back, They will take on the Hobart Hurricanes on September 18. All one can expect is that Kings XI Punjab continue their good form, and win the tournament this time. At the same time, all eyes will be on Sehwag, who has certainly made a strong statement for himself after a wonderful IPL season. If the Champions League goes well for him, there is a huge possibility of his comeback in the Indian team. Seeing Sehwag back in Indian colors is what every cricket fan wishes for, and I hope that we will not be left disappointed.
