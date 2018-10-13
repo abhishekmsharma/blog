@@ -17,7 +17,7 @@ Most teams look great on paper, but one team that stands out is Kings XI Punjab.
 
 One can say that explosive batsmen like **Virender Sehwag**, **Glenn Maxwell**, **David Miller**, and **George Bailey** form one of the most destructive batting line-ups in T20 cricket. And with youngsters like **Manan Vohra** and **Wriddhiman Saha** doing well, it won't be wrong to say that Kings XI have one of the best batting line-ups for the upcoming CLT20.
 
-<img src="https://www.cricket.com.au/-/media/News/2016/01/19MaxiSehwag.ashx' width=500 alt="Virender Sehwag and Glenn Maxwell were instrumental in the success Kings XI Punjab tasted in IPL 7">
+<img src="https://www.cricket.com.au/-/media/News/2016/01/19MaxiSehwag.ashx' width="500" alt="Virender Sehwag and Glenn Maxwell were instrumental in the success Kings XI Punjab tasted in IPL 7">
 
 The team's IPL season was fantastic. Glenn Maxwell and Virender Sehwag, the two top scorers for the team lifted Kings Xi with their individual performances. Maxwell was fantastic in the first half of the tournament, whereas Sehwag kept chipping in with several crucial 30s and 40s giving the much needed momentum a team needs at the start.
 
