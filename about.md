@@ -4,4 +4,6 @@ title: About Abhishek
 comments: true
 ---
 
-Abhishek Manoj Sharma's blog. Work in progress.
+You can learn more about me by going to https://abhishekmsharma.com/#about.
+
+Thank you!
